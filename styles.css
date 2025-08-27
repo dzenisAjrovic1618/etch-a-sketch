@@ -1,0 +1,31 @@
+body{
+    background-color:darkgreen;
+}
+
+.container{
+  display: grid;
+  margin-top: 10px;
+  border: 1px solid black;
+}
+
+.square{
+  border: 1px solid gray;
+  background: white;
+
+}
+/* .square:hover{
+    background-color:red;
+
+} */
+
+input {
+    width:50px;
+    height:30px;
+}
+.divButton{
+    align-items: center;
+}
+button {
+    height:35px;
+    justify-content: right;
+}
